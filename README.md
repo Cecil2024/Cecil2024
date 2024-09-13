@@ -10,10 +10,6 @@ I am a Visual Artist and Photographer with a passion for capturing the beauty of
 💻 Merging Art & Technology
 As I deepen into the world of coding, I'm excited to enhance my portfolio with interactive and dynamic elements that showcase my work in innovative ways. On my GitHub, you'll find projects where creativity meets technology, such as:
 
- - Interactive Photo Galleries: Coding custom, responsive galleries to create immersive experiences for viewers.
- - Portfolio Website: Building a personal website from scratch to feature my artwork, photography, and creative projects.
- - Accessible by design: Every element is crafted to ensure maximum accessibility.
-
 🌱 Always Learning
 I believe that creativity knows no bounds, and I'm constantly exploring new ways to express my artistic vision. Whether it's mastering a new programming language, or experimenting with web design, I'm always learning and growing.
 
