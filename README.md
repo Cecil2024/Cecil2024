@@ -1,14 +1,8 @@
 # 👋 Hello, I'm Connie!
 
-I am a Visual Artist and Photographer with a passion for capturing the beauty of the world through my lens. My journey has taken me through various creative landscapes, from the fine arts to digital photography, where I've honed my skills in visual storytelling. Now, I'm exploring the fascinating intersection of art and technology by integrating code into my portfolio.
+With nearly a decade of experience in photography, visual arts and graphic design, I combine creative vision with technical expertise. Currently focused on UX/UI design, I aim to craft intuitive, user-centered digital experiences. I’m skilled in Figma, Photoshop, and Lightroom, with a solid foundation in HTML, CSS, and JavaScript, and I enjoy collaborating in Agile environments to drive product development. I’m also passionate about accessibility and committed to creating inclusive, user-friendly designs for everyone.
 
 ## My Creative World
-
-### 📸 Photography 
-Specializing in portrait and event photography, I use my camera to tell compelling stories and evoke emotions. My work often explores themes of identity, nature, and the passage of time.
-
-### 🎨 Visual Arts 
-With a background in painting, drawing, and mixed media, I bring a unique perspective to my photographic work. My artistic journey informs my approach to composition, colour, light and detail.
 
 ### 💻 Merging Art & Technology
 As I deepen into the world of coding, I'm excited to enhance my portfolio with interactive and dynamic elements that showcase my work in innovative ways. On my GitHub, you'll find projects where creativity meets technology.
